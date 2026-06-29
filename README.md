@@ -195,12 +195,6 @@ Screenshots of the application interface will be added here.
 
 ---
 
-## 🎥 Demo Video
-
-Demo video link will be added after submission.
-
----
-
 ## 👩‍💻 Author
 
 **Tadisetti Sri Sai Rishita**
