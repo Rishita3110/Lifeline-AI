@@ -147,6 +147,21 @@ Lifeline-AI/
 ```
 
 ---
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Messy Dump
+![Messy Dump](screenshots/messydump.png)
+
+### AI Coaches
+![AI Coaches](screenshots/coaches.png)
+
+### Timeline
+![Timeline](screenshots/timeline.png)
+
+---
 
 ## 🚀 Getting Started
 
