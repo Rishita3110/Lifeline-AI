@@ -1,0 +1,6 @@
+{
+  "name": "Lifeline AI",
+  "description": "Proactive Deadline Protection & Multi-Agent Focus Hub",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
